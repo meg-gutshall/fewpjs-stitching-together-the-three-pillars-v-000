@@ -31,7 +31,7 @@ We also described the interaction that we want to make: "favoriting" an item on
 social media to turn an empty heart to red. Now, let's pull it all together and
 see how it works by walking through some code.
 
-### Cause a Change to Given Code So That DOM Updating Effect Is Seen
+### Cause a Change to Given Code so that the DOM Updating Effect Is Seen
 
 Meet our app, Simple Liker! It demos the favoriting action we've talked about
 and alerts you to what is happening at each step of the process. When all is
